@@ -78,7 +78,7 @@ WHERE state = "OH";
   WHERE user_id = 114
 
 - DELETE from users
-  DELETE FROM usersContact
+  DELETE FROM users
   WHERE id = 114
 
 ## Summary
